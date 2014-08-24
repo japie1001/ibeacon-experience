@@ -10,3 +10,9 @@
 # view AndroidManifest.xml #generated:12
 -keep class com.plugin.gcm.PushHandlerActivity { <init>(...); }
 
+# view AndroidManifest.xml #generated:22
+-keep class com.radiusnetworks.ibeacon.IBeaconIntentProcessor { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.radiusnetworks.ibeacon.service.IBeaconService { <init>(...); }
+

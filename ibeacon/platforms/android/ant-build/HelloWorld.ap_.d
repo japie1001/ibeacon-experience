@@ -25,6 +25,7 @@ c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experienc
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\com.phonegap.plugins.PushPlugin \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.device \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.file \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.media \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\com.phonegap.plugins.PushPlugin\www \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\com.phonegap.plugins.PushPlugin\www\PushNotification.js \
@@ -53,6 +54,18 @@ c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experienc
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.file\www\requestFileSystem.js \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.file\www\resolveLocalFileSystemURI.js \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.file\www\android\FileSystem.js \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\Delegate.js \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\lib \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\LocationManager.js \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\model \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\Regions.js \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\lib\klass.min.js \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\lib\q.min.js \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\lib\underscore-min-1.6.js \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\model\BeaconRegion.js \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\model\CircularRegion.js \
+c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.ibeacon\www\model\Region.js \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.media\www \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.media\www\Media.js \
 c:\Users\jwoltjes\Documents\iBeacon Experience\the code\master\ibeacon-experience\ibeacon\platforms\android\assets\www\plugins\org.apache.cordova.media\www\MediaError.js \
