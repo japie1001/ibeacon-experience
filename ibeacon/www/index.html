@@ -22,6 +22,16 @@ NOTE:
 
 
         <script type="text/javascript">
+            console.log = function(msg){
+                former(msg);  //maintains existing logging via the console.
+                $("#mylog").append("<div>" + msg + "</div>");
+            }
+
+            window.onerror = function(message, url, linenumber) {
+                console.log("JavaScript error: " + message + " on line " + 
+                        linenumber + " for " + url);
+            }
+
             var logToDom = function (message) {
                 var e = document.createElement('label');
                 e.innerText = message;
@@ -83,6 +93,7 @@ NOTE:
 			<div id="app-status-div">
 				<ul id="app-status-ul">
 					<li>Test iBeacon</li>
+                    <div id="mylog"></div>
 				</ul>
 			</div>
 		</div>
